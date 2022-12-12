@@ -9,6 +9,8 @@ section {
     backdrop-filter: drop-shadow(10px 10px 10px black);
 }
 
-.btn {
+button.mercadopago-button {
+    background-color: bisque;
+    color: black;
     border-radius: 2.25rem;
 }
