@@ -1,0 +1,86 @@
+a.navbar-brand img {
+    width: 100px;
+}
+.text-white-75 {
+    text-align: justify;
+}
+/* voy a ver si cambio o no esto
+#mainNav {
+    background-color: white;
+    color: black;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: black;} */
+
+    hr.divider {
+        background-color: #ffc107;
+        border-top: #6c757d 1px inset;
+    }
+
+    .masthead {
+        height: 80vh;
+    }
+    .page-section {
+        background: linear-gradient(to bottom, rgb(111 111 104 / 10%) 70%, #7a6a3a 150%);
+    }
+
+    i.bi.fs-1.text-primary {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-warning-rgb), var(--bs-text-opacity)) !important;}
+
+    .wsp {
+        position: fixed;
+        bottom: 4vw;
+        right: 2vw;
+        width: 50px;
+      filter: drop-shadow(1px 1px 2px black);
+      }
+
+      p.mb-4 {
+          color: rgba(05, 05, 05, 0.75);
+            text-align: justify;
+        
+      }
+      h2.mt-0{
+        text-align: center;
+        color: rgba(255, 255, 255, 0.85);
+
+      }
+
+      .redes-footer { 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .redes-footer a {
+        margin-right: 1%;
+      }
+
+      .redes-footer i {
+        color: #6c757d;
+        width: 300px;
+       /*  */
+      }
+      footer a{
+        color: #6c757d; }
+
+        .redes-principal { 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }
+          .redes-principal i {
+            color: #a88b32;
+          }
+         .redes-principal a {
+            margin-right: 5%;
+         }
+    header.masthead {
+        display: flex;
+        align-items: center;
+    }
+
+    section.page-section {
+        padding: 5% 5%;
+    }

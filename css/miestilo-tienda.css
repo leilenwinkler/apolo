@@ -1,0 +1,14 @@
+body{   
+    background-color: #ffc107;
+}
+section {
+    background: linear-gradient(to bottom, rgb(111 111 104 / 10%) 70%, #7a6a3a 150%);
+}
+.card {
+    border-radius: 1rem;
+    backdrop-filter: drop-shadow(10px 10px 10px black);
+}
+
+.btn {
+    border-radius: 2.25rem;
+}
