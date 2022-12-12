@@ -84,3 +84,15 @@ a.navbar-brand img {
     section.page-section {
         padding: 5% 5%;
     }
+
+    #portfolio .container-fluid .portfolio-box .portfolio-box-caption {
+      background: #ffc107;
+    }
+
+h2.mt-0 {
+color: #ffc002;
+}
+
+h2.about {
+  color: whitesmoke;
+}
